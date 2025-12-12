@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "告げ口",
+  "base_artist": "春猿火",
+  "createdAt": "2025-12-12T13:41:06.782949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "告げ口",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/01_告げ口_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "告げ口",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/02_告げ口_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "告げ口",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/03_告げ口_春猿火.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告げ口",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_告げ口_春猿火.txt"
+    }
+  ]
+}
